@@ -1,0 +1,26 @@
+.top {
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  align-items: center;
+  text-align: center;
+  margin: 25px 25px;
+}
+
+.starShipCard {
+  background-color: #143326ea;
+  padding: 8px 8px;
+  width: 200px;
+  height: 70px;
+  margin: 8px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
